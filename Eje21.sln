@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eje21", "Eje21.csproj", "{AEC61187-B979-4491-84C0-C9206FF35106}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEC61187-B979-4491-84C0-C9206FF35106}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{AEC61187-B979-4491-84C0-C9206FF35106}.Debug|anycpu.Build.0 = Debug|anycpu
+		{AEC61187-B979-4491-84C0-C9206FF35106}.Release|anycpu.ActiveCfg = Release|anycpu
+		{AEC61187-B979-4491-84C0-C9206FF35106}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29E449D4-8EBB-4971-9632-80CD2F8651F5}
+	EndGlobalSection
+EndGlobal
